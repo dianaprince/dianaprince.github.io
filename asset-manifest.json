@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dianaprince.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/dianaprince.github.io/static/js/main.ab2d9d26.js",
-    "static/js/453.318e134b.chunk.js": "/dianaprince.github.io/static/js/453.318e134b.chunk.js",
-    "static/media/logo.svg": "/dianaprince.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/dianaprince.github.io/index.html",
-    "main.f855e6bc.css.map": "/dianaprince.github.io/static/css/main.f855e6bc.css.map",
-    "main.ab2d9d26.js.map": "/dianaprince.github.io/static/js/main.ab2d9d26.js.map",
-    "453.318e134b.chunk.js.map": "/dianaprince.github.io/static/js/453.318e134b.chunk.js.map"
+    "main.css": "/static/css/main.05d88f49.css",
+    "main.js": "/static/js/main.22c407dc.js",
+    "static/js/453.318e134b.chunk.js": "/static/js/453.318e134b.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.2a557ca5f6888e2815550f48fa31b6a7.svg",
+    "index.html": "/index.html",
+    "main.05d88f49.css.map": "/static/css/main.05d88f49.css.map",
+    "main.22c407dc.js.map": "/static/js/main.22c407dc.js.map",
+    "453.318e134b.chunk.js.map": "/static/js/453.318e134b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ab2d9d26.js"
+    "static/css/main.05d88f49.css",
+    "static/js/main.22c407dc.js"
   ]
 }
