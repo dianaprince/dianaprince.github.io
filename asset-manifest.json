@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/dianaprince.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/dianaprince.github.io/static/js/main.e42be40c.js",
-    "static/js/453.c3a0f352.chunk.js": "/dianaprince.github.io/static/js/453.c3a0f352.chunk.js",
-    "static/media/logo.svg": "/dianaprince.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/dianaprince.github.io/index.html",
-    "main.f855e6bc.css.map": "/dianaprince.github.io/static/css/main.f855e6bc.css.map",
-    "main.e42be40c.js.map": "/dianaprince.github.io/static/js/main.e42be40c.js.map",
-    "453.c3a0f352.chunk.js.map": "/dianaprince.github.io/static/js/453.c3a0f352.chunk.js.map"
+    "main.css": "/static/css/main.4b5cfbfb.css",
+    "main.js": "/static/js/main.a0d7450c.js",
+    "static/js/453.318e134b.chunk.js": "/static/js/453.318e134b.chunk.js",
+    "static/media/EBGaramond-SemiBold.ttf": "/static/media/EBGaramond-SemiBold.73ca3d099b7e95d31c5d.ttf",
+    "static/media/EBGaramond-Bold.ttf": "/static/media/EBGaramond-Bold.4a3c787c6b54ac570a9f.ttf",
+    "static/media/EBGaramond-Regular.ttf": "/static/media/EBGaramond-Regular.639c0c8d2c681d29c6be.ttf",
+    "static/media/EBGaramond-SemiBoldItalic.ttf": "/static/media/EBGaramond-SemiBoldItalic.495244b68a66698c4df7.ttf",
+    "static/media/EBGaramond-BoldItalic.ttf": "/static/media/EBGaramond-BoldItalic.a8551a355c29b1801f60.ttf",
+    "static/media/EBGaramond-Italic.ttf": "/static/media/EBGaramond-Italic.d0f3dbdb3dc7ab1682de.ttf",
+    "static/media/logo.svg": "/static/media/logo.2a557ca5f6888e2815550f48fa31b6a7.svg",
+    "index.html": "/index.html",
+    "main.4b5cfbfb.css.map": "/static/css/main.4b5cfbfb.css.map",
+    "main.a0d7450c.js.map": "/static/js/main.a0d7450c.js.map",
+    "453.318e134b.chunk.js.map": "/static/js/453.318e134b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.e42be40c.js"
+    "static/css/main.4b5cfbfb.css",
+    "static/js/main.a0d7450c.js"
   ]
 }
